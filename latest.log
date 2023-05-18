@@ -1,0 +1,325 @@
+[12:42:43] [main/INFO]: ModLauncher running: args [--username, DeathSpore3, --version, forge-43.2.10, --gameDir, C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5, --assetsDir, C:\Users\tjpharis\curseforge\minecraft\Install\assets, --assetIndex, 1.19, --uuid, 6dd2091fa53949d7addd2cb434043d51, --accessToken, ????????, --clientId, N2E4ZWNhN2ItMWRmZi00MzZkLTgxZjAtMzNlODAxMmIyNDk4, --xuid, 2535417530036590, --userType, msa, --versionType, release, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 43.2.10, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[12:42:43] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[12:42:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/tjpharis/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2397!/ Service=ModLauncher Env=CLIENT
+[12:42:54] [main/INFO]: Found mod file abnormals_delight-1.19.2-4.0.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file AdvancedPeripherals-0.7.27r.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file AdvancementPlaques-1.19.2-1.4.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file AE2WTLib-12.8.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file AI-Improvements-1.19.2-0.5.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file AkashicTome-1.6-23.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file alexsmobs-1.21.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file allurement-1.19.2-3.1.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file AmbientEnvironment-forge-1.19.2-8.0+3.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file appleskin-forge-mc1.19-2.4.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Applied-Botanics-1.4.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Applied-Mekanistics-1.3.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file appliedenergistics2-forge-12.9.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file architectury-6.5.82-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ars_creo-1.19.2-3.1.3.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ars_nouveau-1.19.2-3.13.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file arsarmiger-1.19.2-1.4.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file artifacts-1.19.2-5.0.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file atmospheric-1.19.2-5.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file AttributeFix-Forge-1.19.2-17.2.6.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file AutoRegLib-1.8.2-55.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file autumnity-1.19.2-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file balm-forge-1.19.2-4.5.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file berry_good-1.19.2-6.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file BetterAdvancements-1.19.2-0.2.2.142.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file BetterCompatibilityChecker-1.0.10-build.50+mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file BetterF3-4.0.0-Forge-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file betterlily.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file BHMenu-Forge-1.19.2-2.3.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file BiomesOPlenty-1.19.2-17.1.2.544.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file blockui-1.19-0.0.69-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file blue_skies-1.19.2-1.3.20.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file blueprint-1.19.2-6.1.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file boatload-1.19.2-4.2.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Bookshelf-Forge-1.19.2-16.2.18.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Botania-1.19.2-438-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file buzzier_bees-1.19-5.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file bwncr-forge-1.19.2-3.14.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file carpeted-1.19.2-1.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file carryon-forge-1.19.2-2.0.5.16.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file catalogue-1.7.0-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file cave-enhancements-1.19.2-2.1.11-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file cc-tweaked-1.19.2-1.101.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file chalk-1.19-1.4.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file charmofundying-forge-6.2.0+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file chat_heads-0.10.14-forge-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file cherishedworlds-forge-6.0.5+1.19.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Chunky-1.3.38.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file citadel-2.1.3-1.19.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file clayworks-1.19.2-2.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file clickadv-1.19.2-3.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file cloth-config-8.2.88-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Clumps-forge-1.19.2-9.0.0+14.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file CNB-1.19-1.5.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file CodeChickenLib-1.19.2-4.3.1.481-universal.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file cofh_core-1.19.2-10.2.1.40.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file CommonCapabilities-1.19.2-2.9.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file compressedcreativity-1.19.2-0.1.5.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file configured-2.1.1-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file connectivity-1.19.2-4.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Controlling-forge-1.19.2-10.0+7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file CosmeticArmorReworked-1.19.2-v1a.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file craftingtweaks-forge-1.19.2-15.1.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file create-1.19.2-0.5.0.i.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file createaddition-1.19.2-20230507a.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file createdeco-1.3.2-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file CreativeCore_FORGE_v2.9.3_mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file creeperoverhaul-2.0.9-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file CTM-1.19.2-1.1.6+8.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file curios-forge-1.19.2-5.1.4.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file CyclopsCore-1.19.2-1.18.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file DarkerDepths-1.19.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file DarkUtilities-Forge-1.19.2-13.1.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Decorative Blocks-forge-1.19.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file defaultoptions-forge-1.19-15.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file deuf-1.19.2-1.3.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file domesticationinnovation-1.6.1-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file domum_ornamentum-1.19-1.0.76-ALPHA-universal.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file dusk-1.19.2-2.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file dyed-forge-1.19.4-1.1.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file dynview-1.19.1-2.9.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ecologics-forge-1.19.2-2.1.11.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file effortlessbuilding-1.19-2.40.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file EightsEconomyP-1.19-FORGE-1.1.0-all.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file elevatorid-1.19.2-1.8.9.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file EnderStorage-1.19.2-2.10.1.181-universal.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file engineersdecor-1.19.2-forge-1.3.28.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ensorcellation-1.19.2-4.2.0.14.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file entityculling-forge-1.6.1-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file environmental-1.19.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file EquipmentCompare-1.19.2-forge-1.3.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file everycomp-1.19.2-2.4.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file extendedflywheels-1.2.5-1.19.2-0.5.f.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file fairylights-6.0.0-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Fallingleaves-1.19.1-1.3.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file fancymenu_forge_2.14.7_MC_1.19-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FarmersDelight-1.19-1.2.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FarmersRespite-1.19-2.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file farsight-1.19.2-2.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FastFurnace-1.19.2-7.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FastSuite-1.19.2-4.1.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FastWorkbench-1.19.2-7.1.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ferritecore-5.0.3-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FlowerPatch-forge-1.19.2-2.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FluxNetworks-1.19.2-7.1.3.12.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file forbidden_arcanus-1.19.2-2.1.3.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FORGE-blanced_crates1.7.2-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FpsReducer2-forge-1.19.2-2.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file FramedBlocks-6.8.3.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file geckolib-forge-1.19-3.1.40.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file goblintraders-1.8.0-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file guardvillagers-1.19.2-1.5.5.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file hourglass-1.19.1-1.2.1.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file hunterillager-1.19.2-8.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Iceberg-1.19.2-forge-1.1.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ImmersiveEngineering-1.19.2-9.2.1-164.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ImmersivePosts-1.19.2-4.3.0-6.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file incubation-1.19-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file IntegratedCrafting-1.19.2-1.1.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file IntegratedDynamics-1.19.2-1.16.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file integratednbt-1.19.2-1.6.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file IntegratedTerminals-1.19.2-1.4.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file IntegratedTunnels-1.19.2-1.8.18.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file invhud.forge.1.19-3.4.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Jade-1.19.1-forge-8.8.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file JadeAddons-1.19.2-forge-3.4.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file jeed-1.19.2-2.1.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file jei-1.19.2-forge-11.6.0.1015.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file JustEnoughProfessions-forge-1.19.2-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file JustEnoughResources-1.19.2-1.1.0.179.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Kiwi-1.19.1-forge-8.3.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file kleeslabs-forge-1.19.2-12.3.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file konkrete_forge_1.6.1_MC_1.19-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file kotlinforforge-3.12.0-all.jar of type LIBRARY with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file kubejs-create-forge-1902.1.1-build.35.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file kubejs-forge-1902.6.0-build.142.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file kubejs-immersive-engineering-1902.2.2-build.40.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file kubejs-mekanism-1902.1.4-build.11.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file kubejs_botania-1.0.4-fix2-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file labels-1.19.2-1.9.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file lapisreserve-1.0.8F.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file lazydfu-1.19-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file light-overlay-7.0.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file littlebotanics-1.00-1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file littlecontraptions-forge-1.19.2.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file littlelogistics-mc1.19.2-v1.3.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file logprot-1.19.2-1.9.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file lootintegrations-1.19-3.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Mekanism-1.19.2-10.3.8.477.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file MekanismAdditions-1.19.2-10.3.8.477.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file MekanismGenerators-1.19.2-10.3.8.477.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file MekanismTools-1.19.2-10.3.8.477.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file minecolonies-1.19.2-1.0.1410-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file modernfix-mc1.19.2-forge-3.5.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file moonlight-1.19.2-2.2.31-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file morejs-forge-1.19.2-0.0.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file moreminecarts-1.5.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file MouseTweaks-forge-mc1.19-2.23.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file multipiston-1.19.2-1.2.21-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file mutil-1.19.2-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file NaturesCompass-1.19.2-1.10.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file neapolitan-1.19.2-4.0.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Neat-1.19-32.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file netherportalfix-forge-1.19-10.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file NethersDelight-1.19-3.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file notenoughcrashes-4.2.1+1.19.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file oculus-mc1.19.2-1.2.8a.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file open-parties-and-claims-forge-1.19.2-0.17.3.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file OpenLoader-Forge-1.19.2-15.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Paintings-forge-1.19.2-10.2.4.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Patchouli-1.19.2-77.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file peculiars-4.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file personality-1.19-3.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file PigPen-Forge-1.19.2-11.1.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file pitg-1.19.1-2.1.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Placebo-1.19.2-7.1.8.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file pneumaticcraft-repressurized-1.19.2-4.3.4-24.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file polymorph-forge-0.46.1+1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ponderjs-1.19.2-1.1.11.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Quark-3.4-399.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file QuarkOddities-1.18.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file raised-forge-1.19.2-1.2.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file RapidLeafDecay-1.19.2-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file reap-1.19.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ReAuth-1.19-Forge-4.0.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file rechiseled-1.0.13-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file resourcefulconfig-forge-1.19.2-1.0.20.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file respiteful-1.19.2-1.1.0-patch.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file rhino-forge-1902.2.2-build.268.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file rottencreatures-forge-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file rubidium-0.6.2a.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Runelic-Forge-1.19.2-14.1.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file savage_and_ravage-1.19.2-5.0.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file seasonals-1.19.2-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file serverconfigupdater-3.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Shoppy-1.19.2-FORGE-1.0.7-all.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file simple-rpc-forge-1.19.x-3.2.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file SimpleBackups-1.19.1-2.1.9.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file sliceanddice-forge-2.1.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file smarterfarmers-1.19.2-1.7.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file smoothchunk-1.19.1-2.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file SnowRealMagic-1.19.2-forge-6.5.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file snowundertrees-1.19.2-1.3.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file sophisticatedbackpacks-1.19.2-3.18.45.819.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file sophisticatedcore-1.19.2-0.5.54.261.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file spark-1.10.37-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file spirit-forge-1.19.2-2.2.6.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file starbunclemania-1.19.2-1.0.6.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file starlight-1.1.1+forge.cf5b10b.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file StorageDrawers-1.19-11.1.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file structure_gel-1.19.2-2.7.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file structureessentials-1.19.2-2.7.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file structurize-1.19.2-1.0.491-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file sullysmod-2.3.1-beta.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file supermartijn642configlib-1.1.6b-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file supermartijn642corelib-1.1.7-forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file supplementaries-1.19.2-2.3.10.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file suppsquared-1.19.2-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file swingthroughgrass-1.19.2-1.10.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file TerraBlender-forge-1.19.2-2.0.1.136.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file tetra-1.19.2-5.2.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file TextruesRubidiumOptions-1.0.5-mc1.19.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file the-conjurer-1.19.2-1.1.5.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Tips-Forge-1.19.2-8.0.27.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file ToolStats-Forge-1.19.2-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file transparent-5.1.2+1.19-forge.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file trashslot-forge-1.19-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file trolldom-1.19.2-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file twilightforest-1.19.2-4.2.1518-universal.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file upgrade_aquatic-1.19.2-5.0.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file v_slab_compat-1.19.2-1.4.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file valhelsia_core-forge-1.19.2-0.5.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file valhelsia_furniture-forge-1.19.2-1.1.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file valhelsia_structures-forge-1.19.2-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file valhelsia_tweaks-forge-1.19.2-0.1.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file visuality-forge-2.0+forge-mc1.19.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file waystones-forge-1.19.2-11.4.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file woodworks-1.19.2-2.2.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file Xaeros_Minimap_23.4.1_Forge_1.19.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file XaerosWorldMap_1.30.1_Forge_1.19.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file xercamusic-1.19.2-1.1.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file xercapaint-1.19.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file YungsApi-1.19.2-Forge-3.8.9.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file YungsBetterDungeons-1.19.2-Forge-3.2.2.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file YungsBetterNetherFortresses-1.19.2-Forge-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/INFO]: Found mod file YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar of type MOD with provider {mods folder locator at C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\mods}
+[12:42:54] [main/WARN]: Mod file C:\Users\tjpharis\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.10\fmlcore-1.19.2-43.2.10.jar is missing mods.toml file
+[12:42:54] [main/WARN]: Mod file C:\Users\tjpharis\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.10\javafmllanguage-1.19.2-43.2.10.jar is missing mods.toml file
+[12:42:54] [main/WARN]: Mod file C:\Users\tjpharis\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.10\lowcodelanguage-1.19.2-43.2.10.jar is missing mods.toml file
+[12:42:54] [main/WARN]: Mod file C:\Users\tjpharis\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.10\mclanguage-1.19.2-43.2.10.jar is missing mods.toml file
+[12:42:54] [main/INFO]: Found mod file fmlcore-1.19.2-43.2.10.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61c76850
+[12:42:54] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.2.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61c76850
+[12:42:54] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.2.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61c76850
+[12:42:54] [main/INFO]: Found mod file mclanguage-1.19.2-43.2.10.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61c76850
+[12:42:54] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61c76850
+[12:42:54] [main/INFO]: Found mod file forge-1.19.2-43.2.10-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@61c76850
+[12:42:54] [main/INFO]: Found 12 dependencies adding them to mods collection
+[12:42:54] [main/INFO]: Found mod file mixinextras-forge-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file OctoEconomyApi-forge-1.1.0-1.18.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file MixinExtras-0.2.0-beta.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file kffmod-3.12.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file resourcefullib-forge-1.19.2-1.1.12.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file caffeine-3.1.6.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.8.a-14.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file kfflib-3.12.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file expandability-forge-7.0.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file kfflang-3.12.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:42:54] [main/INFO]: Found mod file spectrelib-forge-0.11.0+1.19.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@3f985a86
+[12:43:00] [main/INFO]: Compatibility level set to JAVA_17
+[12:43:00] [main/ERROR]: Mixin config mixins.oculus.compat.sodium.json does not specify "minVersion" property
+[12:43:00] [main/ERROR]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
+[12:43:00] [main/ERROR]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
+[12:43:00] [main/INFO]: Successfully loaded Mixin Connector [com.leobeliik.littlebotanics.MixinConnector]
+[12:43:00] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[12:43:00] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.2.10, --gameDir, C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5, --assetsDir, C:\Users\tjpharis\curseforge\minecraft\Install\assets, --uuid, 6dd2091fa53949d7addd2cb434043d51, --username, DeathSpore3, --assetIndex, 1.19, --accessToken, ????????, --clientId, N2E4ZWNhN2ItMWRmZi00MzZkLTgxZjAtMzNlODAxMmIyNDk4, --xuid, 2535417530036590, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[12:43:00] [main/INFO]: Loaded configuration file for Rubidium: 30 options available, 0 override(s) found
+[12:43:00] [main/INFO]: Loaded configuration file for ModernFix: 54 options available, 0 override(s) found
+[12:43:00] [main/INFO]: Applying Nashorn fix
+[12:43:00] [main/WARN]: Reference map 'labels-common-refmap.json' for labels-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:00] [main/WARN]: Reference map 'labels-forge-refmap.json' for labels.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'steampowered.refmap.json' for extendedflywheels.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'carpeted-common-refmap.json' for carpeted-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'carpeted-forge-refmap.json' for carpeted.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'trolldom.refmap.json' for trolldom.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'v_slab_compat-common-refmap.json' for v_slab_compat-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'jeed-common-refmap.json' for jeed-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'jeed-forge-refmap.json' for jeed.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/INFO]: OptiFine was NOT detected.
+[12:43:01] [main/INFO]: OptiFabric was NOT detected.
+[12:43:01] [main/WARN]: Reference map 'suppsquared-common-refmap.json' for suppsquared-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'suppsquared-forge-refmap.json' for suppsquared.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/WARN]: Reference map 'cave-enhancements-forge-refmap.json' for cave_enhancements.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:43:01] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:43:01] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:43:03] [main/WARN]: Error loading class: sereneseasons/handler/season/RandomUpdateHandler (java.lang.ClassNotFoundException: sereneseasons.handler.season.RandomUpdateHandler)
+[12:43:03] [main/WARN]: @Mixin target sereneseasons.handler.season.RandomUpdateHandler was not found snowrealmagic.mixins.json:sereneseasons.RandomUpdateHandlerMixin
+[12:43:04] [main/INFO]: bre2el.fpsreducer.mixin.RenderSystemMixin will be applied.
+[12:43:04] [main/INFO]: bre2el.fpsreducer.mixin.WindowMixin will NOT be applied because OptiFine was NOT detected.
+[12:43:06] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:43:06] [main/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:43:06] [pool-3-thread-1/INFO]: ModernFix bootstrap
+[12:43:07] [pool-3-thread-1/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on allurement.mixins.json:ItemEntityMixin::handler$cim000$getItemEnchantability exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[12:43:08] [pool-3-thread-1/INFO]: Vanilla bootstrap took 1160 milliseconds
+[12:43:08] [pool-3-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:43:08] [pool-3-thread-1/INFO]: Patching IForgeItemStack#getEnchantmentLevel
+[12:43:09] [pool-3-thread-1/INFO]: Bypassed Mojang DFU
+[12:43:12] [Render thread/WARN]: Method overwrite conflict for m_85995_ in mixins.oculus.vertexformat.json:block_rendering.MixinBufferBuilder_SeparateAo, previously written by me.jellysquid.mods.sodium.mixin.features.buffer_builder.intrinsics.MixinBufferBuilder. Skipping method.
+[12:43:12] [Render thread/WARN]: Assets URL 'union:/C:/Users/tjpharis/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23647!/assets/.mcassetsroot' uses unexpected schema
+[12:43:12] [Render thread/WARN]: Assets URL 'union:/C:/Users/tjpharis/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23647!/data/.mcassetsroot' uses unexpected schema
+[12:43:12] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:43:13] [Render thread/INFO]: Setting user: DeathSpore3
+[12:43:13] [Render thread/INFO]: Loaded default options for extra-folder
+[12:43:13] [Render thread/INFO]: Loading config file from C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\config\simple-rpc\simple-rpc.toml
+[12:43:13] [Render thread/INFO]: Registered simple-rpc.toml successfully!
+[12:43:13] [Render thread/INFO]: Loading config file from C:\Users\tjpharis\curseforge\minecraft\Instances\Valhelsia 5\config\simple-rpc\server-entries.toml
+[12:43:13] [Render thread/INFO]: Registered server-entries.toml successfully!
+[12:43:13] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[12:43:13] [Render thread/INFO]: Loaded client.properties
